@@ -1,0 +1,86 @@
+[
+  {
+    "local_relative_path": "publication pack/ITEM1_reg.dta",
+    "role": "Professor monthly panel",
+    "access": "Restricted financial research data; approved access required",
+    "exists": true,
+    "file_bytes": 415580022
+  },
+  {
+    "local_relative_path": "x9m8tdipe4kxamf0.csv/x9m8tdipe4kxamf0.csv",
+    "role": "Raw accounting characteristics",
+    "access": "WRDS/Compustat licensing",
+    "exists": true,
+    "file_bytes": 46464426
+  },
+  {
+    "local_relative_path": "results_sections.ndjson",
+    "role": "Sentence-level SEC processing results",
+    "access": "Public-source derived corpus; local bulk file",
+    "exists": true,
+    "file_bytes": 4576833062
+  },
+  {
+    "local_relative_path": "publication pack/pg_published_application_abstract.tsv.zip",
+    "role": "Patent abstract text",
+    "access": "Public PatentsView source archive",
+    "exists": true,
+    "file_bytes": 1597376724
+  },
+  {
+    "local_relative_path": "ai_model_predictions.csv/ai_model_predictions.csv",
+    "role": "USPTO AIPD teacher labels",
+    "access": "Public USPTO source archive",
+    "exists": true,
+    "file_bytes": 2975669657
+  },
+  {
+    "local_relative_path": "analysis/professor_filing_level_package_20260804",
+    "role": "Standardized disclosure files",
+    "access": "Derived identifiers and financial links; share only with authorized collaborators",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "analysis/mutually_exclusive_ai_constructs_occurrence",
+    "role": "Occurrence-based topic assignments",
+    "access": "Derived research corpus",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "patent_extension/claims_source",
+    "role": "Pre-grant claims and relationship archives",
+    "access": "Public bulk files retained locally",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "patent_extension/bert_for_patents_checkpoint",
+    "role": "Pinned patent encoder",
+    "access": "Model weights downloaded separately",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "analysis/publication_tables_20261112",
+    "role": "New table results and audit data",
+    "access": "Provisional derived financial results; private review package",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "outputs/publication_tables_20261112",
+    "role": "New table workbooks",
+    "access": "Private review package",
+    "exists": true,
+    "file_bytes": null
+  },
+  {
+    "local_relative_path": "finai_additional/earning call",
+    "role": "Old correlation summaries only",
+    "access": "Does not replace missing call-level transcript data",
+    "exists": true,
+    "file_bytes": null
+  }
+]

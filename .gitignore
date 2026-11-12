@@ -1,0 +1,72 @@
+# Runtime, credentials, downloaded data and generated empirical results.
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+*.pem
+*.key
+*credentials*
+*secrets*
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.conda*/
+patent_extension/neural_runtime/
+patent_extension/references/
+patent_extension/claims_source/
+patent_extension/bert_for_patents_checkpoint/
+patent_extension/outputs/
+patent_extension/aipd_surrogate_*/
+patent_extension/aipd_claims_v*/
+patent_extension/aipd_claims_expanded/
+patent_extension/aipd_claims_soft_teacher/
+patent_extension/aipd_bert_pilot/
+patent_extension/aipd_bert_next/
+patent_extension/independent_validation_v2/outputs*/
+analysis/
+outputs/
+publication pack/
+finai_additional/
+old finai/
+results_sections_sample_style/
+crsp/
+pg_*/
+ai_model_predictions.csv/
+x9m8tdipe4kxamf0.csv/
+*.dta
+*.sas7bdat
+*.csv
+*.tsv
+*.ndjson
+*.jsonl
+*.parquet
+*.xlsx
+*.xls
+*.zip
+*.7z
+*.tar*
+*.gz
+*.sqlite*
+*.db
+*.joblib
+*.pkl
+*.bin
+*.safetensors
+*.onnx
+*.pt
+*.pth
+*.log
+*.partial
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Existing tracked legacy files remain tracked; this is not a history rewrite.
+# Do not restage inherited local-only originals in the clean source branch.
+/Data
+/Data Collection/
+/.vscode/

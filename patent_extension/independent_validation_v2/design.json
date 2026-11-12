@@ -1,0 +1,23 @@
+{
+  "protocol_version": "2.1",
+  "output_subdir": "outputs_v2_1",
+  "exclude_previously_inspected_benchmark_applications": true,
+  "cross_role_exact_text_rule": "retain reserved test ahead of development, pilot, challenge; quarantine non-test duplicates without replacement",
+  "seed": "patent-validation-v2-20261107",
+  "sampling_frame": "First observed utility pre-grant publication per application in the supplied USPTO metadata; first publication 2015-2025",
+  "periods": [
+    {"name": "2015_2018", "start": "2015-01-01", "end": "2018-12-31"},
+    {"name": "2019_2022", "start": "2019-01-01", "end": "2022-12-31"},
+    {"name": "2023_2025", "start": "2023-01-01", "end": "2025-12-31"}
+  ],
+  "per_period": {"pilot": 20, "development": 200, "reserved_test": 600, "challenge": 200},
+  "challenge_title_regex": "model|train|intelligen|automat|predict|image|network|learning|neural|language",
+  "primary_metric_population": "reserved_test only, using period sampling weights",
+  "family_clearance_required": true,
+  "training_overlap_clearance_required": true,
+  "human_labels_required": true,
+  "decision_rule_status": "requires supervisor approval before final test labels are examined",
+  "old_benchmark_status": "previously inspected; reference diagnostic, not a fresh confirmatory test",
+  "finance_sources_permitted": false,
+  "model_scores_permitted_for_sampling": false
+}

@@ -1,0 +1,31 @@
+{
+  "registry_status": "prospective internal plan, not external preregistration",
+  "financial_outcome_selection_permitted": false,
+  "previous_runs": [
+    {
+      "name": "AIPat_label_TFIDF_prototype",
+      "model_card": "../outputs/abstract_model/model_card.json",
+      "status": "exploratory; not publication-approved",
+      "historical_benchmark_already_examined": true,
+      "target": "third-party research labels, not official AIPD and not manual gold truth",
+      "training_used_professor_panel": false,
+      "deployment_population": "existing project-linked patent universe"
+    }
+  ],
+  "proposed_next_candidates": [
+    {
+      "name": "raw_USPTO_abstract_TFIDF_AIPD_teacher",
+      "purpose": "interpretable same-information-set baseline",
+      "target": "explicitly versioned official AIPD teacher labels, with manual development calibration separate",
+      "status": "not trained under v2.1; family and annotation clearance pending"
+    },
+    {
+      "name": "raw_USPTO_abstract_patent_embedding_linear_head",
+      "purpose": "test contextual representation without assuming superiority",
+      "status": "resource/license and development specification approval pending"
+    }
+  ],
+  "test_access_rule": "Freeze candidate, preprocessing, weights, calibration and operating rule before the independent evaluator opens final adjudicated test labels.",
+  "final_operating_criteria": null,
+  "final_operating_criteria_status": "supervisors to approve before test unblinding; no universal publication-quality cutoff assumed"
+}

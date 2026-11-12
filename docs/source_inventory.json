@@ -1,0 +1,563 @@
+[
+  {
+    "path": "_inspect_ai_threshold_inputs.py",
+    "source_sha256": "56310e11bac24a09ad8ebbcda965acd61e22be04dfafc57e37db73a724733b94",
+    "published_sha256": "3b932b9664176e8bcea79c24c6a25878d79a7b6416e12ed1da506f87292e2c1c"
+  },
+  {
+    "path": "advanced_ai_analysis.py",
+    "source_sha256": "d338573fdbeb52362d2de151f16ea1ea9865cc77e5dba7abe970585f55ccef22",
+    "published_sha256": "3d58edf33c5d60d3ace3fe5e681b2cb9254aafb19771013ad8e25042d47da5b2"
+  },
+  {
+    "path": "ai_disclosure_validation_regressions.py",
+    "source_sha256": "5c0c7bc639185cab30725691d6e574925683eed8b517071396ef7627f0c779d3",
+    "published_sha256": "f7d8d07cf1cecd7f745b483bcf2ab4710db3092e29c4c301af4bd40b24a3b78c"
+  },
+  {
+    "path": "ai_positive_quintile_profile_regressions.py",
+    "source_sha256": "8149dd86e8071a40a18cdc93830e6de07ac9ad60d8b91c0461c471603790548c",
+    "published_sha256": "f36bfd69c6c88af030ed76b514d10b6ba6d5b891fd99781db89457541f0a1e51"
+  },
+  {
+    "path": "ai_positive_quintile_profile_tables.py",
+    "source_sha256": "0d6cce23fbbbc260e41fb3fa964539a8b1f2e0d6e6468ecd68dd6267c8390d13",
+    "published_sha256": "a60fe630510be0995ef41b0a441f9c2e21863a9d629e7f801febae7457682669"
+  },
+  {
+    "path": "analyze_ai_findings.py",
+    "source_sha256": "4cc5a1e62b0441b5d0b1f91ad84e275e01c95cfd4a0e85e3560a1a0193f9dd70",
+    "published_sha256": "8dbef8d392fbc1e41a610ce3909e0d9a23ebc843c19b9c1a1e622ffaa47a1a5e"
+  },
+  {
+    "path": "audit_ai_threshold.py",
+    "source_sha256": "64c5a98db25841f82ba7800ce4949061151c07fc64dfaf577e99e64bb1ccf512",
+    "published_sha256": "ff6079699e72a86df477f49d543112f075d0fe2d782045e5bf75632e3050a16f"
+  },
+  {
+    "path": "audit_ai_threshold_examples.py",
+    "source_sha256": "ffc31d1809b803a2c0d12949102f202967c608bdfb3ad2ef6e8ac25429e4bd37",
+    "published_sha256": "e6d8440334b8fd70a37b27ddd9ae4ec0d194227ed657e90af0e9aa38092e9742"
+  },
+  {
+    "path": "audit_ai_time_series_figures.py",
+    "source_sha256": "185eb180ecf81e14700606ea16df5520c023bf8f61ad8a233c1481c2503f18e7",
+    "published_sha256": "b1c1b9c520d4f67c15c05cc19a3cabbfa4c68d1db19a4ad660cfec6f60306319"
+  },
+  {
+    "path": "audit_ibes_download.py",
+    "source_sha256": "8530dde9f456e940d1de320586927a59d69555b96bf94a4c36f8da0a37bdb07b",
+    "published_sha256": "276d9a77ec29bfcb6895c30c31314f3752671ace62b308fbc9499d8002189151"
+  },
+  {
+    "path": "audit_ibes_missingness.py",
+    "source_sha256": "d4d6f80c6f70a01af79d39be9ec83634f30787ec80bcc676e8912837c2cd28dc",
+    "published_sha256": "20e8af2a3477e4d78cdad5fd42ccbfdc07546c4242560d1024d92fd967e4fc28"
+  },
+  {
+    "path": "audit_patent_validation_methodology.py",
+    "source_sha256": "90d519d7d6aa3e3eb39e51a9ad2b7513febd75bc64286c29d4e80f0b6ac9a335",
+    "published_sha256": "ff6b734df230ff6b025af1a8e4891b14775ab8da1dcefdc31a4f2aa9c233f50f"
+  },
+  {
+    "path": "company_characteristics_ai_analysis.py",
+    "source_sha256": "3e2bbd5db67b507bbd81a33ec78c4ab39690f8fb4dc126cdea1d7764ef97b93f",
+    "published_sha256": "6b713eea73df93b4f749fb624313eee7d0b3ca6e590a08dd465eb3a4c2c19b6e"
+  },
+  {
+    "path": "company_characteristics_stat_tests.py",
+    "source_sha256": "7aa03821bc82176bd9c0f2992b8098a8ab03684a0db290de9a3b405c7ea7e7c3",
+    "published_sha256": "897157e97202455af7d97f6c623efd97af0b8fa4dd955d88fde3fdcb93440ab6"
+  },
+  {
+    "path": "construct_validity_package.py",
+    "source_sha256": "5b8a196378079df3eeea072165e14a41be75ee92b983b4e87714984611240945",
+    "published_sha256": "042e4d2bffed5863dcfca4401d87693f693081e8ca7b8c14caae853da9a6258c"
+  },
+  {
+    "path": "create_professor_filing_package.py",
+    "source_sha256": "50ee6b3b3f55b9a3228bbb4fa6e105a94f93eca739181b0b5e3a77ea144aa2a0",
+    "published_sha256": "b85942013c2f15e29a3573105a4d5e18ea22bc57dc411327f180808f757f8a6b"
+  },
+  {
+    "path": "document_ai_topic_exposure.py",
+    "source_sha256": "eaa99459ba459ad3dfbb7ed4f24a2a84156e0dc76c34760cd74370fde06551a8",
+    "published_sha256": "572bf0591b823390a06ddc7ba7291ccc5f436eef7b978c719543053ddb8651b0"
+  },
+  {
+    "path": "earnings_call_ai_indexes.py",
+    "source_sha256": "fdcf35b1e41dff5848bbf7392a8a93fd0c519c532792b8526da8b7359eff87cf",
+    "published_sha256": "285ab7bba0dfbb3871d0e599dc44536f9f5b8b3d7b0e18872f8ac818547d1154"
+  },
+  {
+    "path": "earnings_call_ai_indexes_using_10k_topics.py",
+    "source_sha256": "57acee3a12703e4dff54ece3d619047d5b333934f2c1182ae3d64ef238a7a5c2",
+    "published_sha256": "cdb3b4e5c744863f77b19752854e85058adc9ad964cf407d9e3a0ff5cfad7da8"
+  },
+  {
+    "path": "export_results_sections_document_level.py",
+    "source_sha256": "34cd547f1884de9c0188857f25482d2ae06826b1f18e55dac23a5384f45c6948",
+    "published_sha256": "9fd6f636bb7561019a851d0bbeb2bb8a1fc150e2560fdff46825fa01cd146dbc"
+  },
+  {
+    "path": "export_results_sections_sample_style.py",
+    "source_sha256": "ec8182ec43efecba4a508b192112306d8c3bfb0bb9bac7dd87cb85a653e10d2b",
+    "published_sha256": "4b21ec4b7236a2f5c781b289ac040066ada21666335952540eb8e99253a98454"
+  },
+  {
+    "path": "export_section_sample_style.py",
+    "source_sha256": "fe6f0f21e0c3df6543abe0cb7e82c8f795420cab1be78154f8b555f4b29f8930",
+    "published_sha256": "19d55474c095d06327151645b918a5568f4a4d9049678114179efe8ae9a7927a"
+  },
+  {
+    "path": "final_publication_pack.py",
+    "source_sha256": "b8c60bda03f39abb9321db28aeb74237a63abdf5b6cd09d5ae907ae237edd64e",
+    "published_sha256": "28c953ebdea812c12b1bf0242def756c4058c717b565bad784f611d0782dacc8"
+  },
+  {
+    "path": "industry_market_extensions.py",
+    "source_sha256": "0bacfc64a324be8a373dd8a390ddc9d56c2611ece43d8e6155a5aeaa9307f69c",
+    "published_sha256": "6b6b4444a9ea43f0dfcc409678833a880885e67e1ed950fad584cd006721621b"
+  },
+  {
+    "path": "inspect_publication_pack.py",
+    "source_sha256": "7b5c33c3f2329732c37dc9a5619d84597b349039f7539aa15d062bb3feb38407",
+    "published_sha256": "aca543e1bc613a23b3457c10cb64acfdcb96828de8703c791614cbc185f36b2c"
+  },
+  {
+    "path": "item1_ai_topic_exposure.py",
+    "source_sha256": "5df19b2618e98e13b644885efd454c70b07b22025f980bc0f02fa93657dc0ae4",
+    "published_sha256": "5691f8916bc520baa14df636bb59c3521c3650e59254fc2c1b735476e0263faa"
+  },
+  {
+    "path": "make_additional_validation_outputs.py",
+    "source_sha256": "be2d7355a37cfd61e555af6d027972a38408168e6fb72269f70c5eec3afe962d",
+    "published_sha256": "31435be680bbb289c2f4780dc4a8c52ea5063236d482ed12c07de7b35c6e687b"
+  },
+  {
+    "path": "make_ai_disclosure_validation_figures.py",
+    "source_sha256": "bd8734e959e3b5e5c224be30b6d7b4f73872fccb3792b8f1ce2e4db27c8e8f03",
+    "published_sha256": "aa3992aef8c5eb14f39f08327f2fcf93ee24cadfb77732320397c27caf52894b"
+  },
+  {
+    "path": "make_ai_ratio_time_series_figures.py",
+    "source_sha256": "fd16b80403358f85cefbac6dc7b5ec5e58063ac273b994ac3e4eecf18c08496e",
+    "published_sha256": "bec3a45ce03de10b4763082b50b865183935d80d1f4ebab288632aa098c0d2d2"
+  },
+  {
+    "path": "make_ff12_sector_ai_figures.py",
+    "source_sha256": "8eb9dae53695d2e243876c3721219248582c8a1fe90acf978cfb523f60b90bc5",
+    "published_sha256": "568aa61b17977bc595a27d9b9aee70c9769e93b44c46eaed9b683efac5c3abc7"
+  },
+  {
+    "path": "make_overleaf_ai_validation_tables.py",
+    "source_sha256": "c93a81810d59d78fb4a2f4d839f2076323dfd159406150be3b91687d0a19b36c",
+    "published_sha256": "9777243658aab7d7ef7cf29d21e9a23c2be358dd256cc93de86dc5375538d997"
+  },
+  {
+    "path": "make_patent_validation_figures.py",
+    "source_sha256": "a5d3140129d02f6de22ccdddede54d8b10d909f7eb2c44f00c42bc11ad624fec",
+    "published_sha256": "ccc51217916137e2245e6721fe8d5f6471cb76433985020aff14326db1a57179"
+  },
+  {
+    "path": "make_top_company_average_tables.py",
+    "source_sha256": "ddc48e7622d9f61d4ff1c907803891a8864ed3006108a3dc6bb54eccebbce163",
+    "published_sha256": "9947d4d2890bca61627047b897b76c9e316889c48dc73b8a62404415d65c381e"
+  },
+  {
+    "path": "mutually_exclusive_ai_constructs.py",
+    "source_sha256": "57c16cf71eefd904800b218067b2b937a2c0daaacbd4d364b6eb9d3011d84b5b",
+    "published_sha256": "0f5397bd8c5188486f15a38ae0a839e3c1c9457291a10b700dd62581707ae272"
+  },
+  {
+    "path": "mutually_exclusive_ai_constructs_occurrence.py",
+    "source_sha256": "afa86a93bdf19662612b3db49887c5d7e635df17b879e16a202095bcd6330489",
+    "published_sha256": "054fba762d7b6ca4fb569f23489ea22fc2b587bcea938c1ba96c3f1bb3760d64"
+  },
+  {
+    "path": "patent_validation_analysis.py",
+    "source_sha256": "aa321767183baae0358a4c54e77a75341dd2fecddd3ebe2b6b8bff54397526e8",
+    "published_sha256": "8369a7d8bd8317604673e405716f122a4d6bf58419888a033979d2c581762400"
+  },
+  {
+    "path": "patent_validation_extended_analysis.py",
+    "source_sha256": "c4446155eaed8088c2a749858948d0721e0e6b6c0f452527ff1e3fe73454d075",
+    "published_sha256": "a8ec86d2d496910a73bbdb414b93ffe70ba33a1ebcf06331588f031083e2f1cc"
+  },
+  {
+    "path": "patent_validation_pipeline.py",
+    "source_sha256": "857c287dea5dfefd81aa0368a0377f7b437f81993efebf011fd96dead8c548ec",
+    "published_sha256": "3f1f4a195fa97bad850a0e727f3952196cfbc58edad1f69f810ee395af66bec9"
+  },
+  {
+    "path": "patent_validation_pipeline_improved.py",
+    "source_sha256": "566d6c7e399bcbd8176d15960eeb2a8fbc0f5490cc09cbff8755c49729878c4c",
+    "published_sha256": "0b2a4a6e10e4840079c915db3634688565a61358856771e82694775dc7c630e8"
+  },
+  {
+    "path": "process_forms_no_setion.py",
+    "source_sha256": "876015ac0f5575569dda1e3454a8eab0ee1ee75c7584ca90e511c43b38f57a3d",
+    "published_sha256": "85b0d44407967b0a2ce64e36c5242aea8ddac60ce6a25a1c6e58e9052e20fcac"
+  },
+  {
+    "path": "publication_examples_tex.py",
+    "source_sha256": "2a5bce113f46653e26873546d005ce7bf9207d8571def1de8ff52f3206050957",
+    "published_sha256": "c32a250492e8de8088d13c6b7c36e3857e0f643c4fcc6c4806a54e5c65b05a2d"
+  },
+  {
+    "path": "publication_tables.py",
+    "source_sha256": "81fdd262cac13c4acf2eac88ee4a204dfe720fb7473b10c9e442c02a092596a3",
+    "published_sha256": "22202086136852a8d3e9291b7e612d6cb0041e0f2c9240c3ffa2ff440728f0bd"
+  },
+  {
+    "path": "refine_ai_visuals.py",
+    "source_sha256": "4dbc4529a5371e8ba302347939dff517d4fffde54bfec3113113e32fceffa473",
+    "published_sha256": "9edff15b5f424ebf738d215be7d1c11c5bf7bf71790ddfaff4920de8ea6241df"
+  },
+  {
+    "path": "research_extensions.py",
+    "source_sha256": "9b7f1a8e8561fa1f196aa005fa81d422b4f45f5d63216c58ccd0218641825601",
+    "published_sha256": "89621096ea7d3319eb2d650322074cff760227ef22007483b59dd8ab40ad3f83"
+  },
+  {
+    "path": "test_publication_tables.py",
+    "source_sha256": "28ca837502ae22ae71bddde87f97f253fa36f6e39167645fe12e56b876baff97",
+    "published_sha256": "bd548656c2082c34910ebd2b93b532eb6be92b21fa5ad7441daaca2e5a56361c"
+  },
+  {
+    "path": "verify_publication_tables.py",
+    "source_sha256": "edc3ea02c229cf38f240209357ffb18374ee185a01ee72d3a35e11762639689a",
+    "published_sha256": "b8fa4e64060c2673220be69ff4b51588adc01e5d9aa8bac24189317e53a37b94"
+  },
+  {
+    "path": "publication_tables_workbook.mjs",
+    "source_sha256": "0338073cc0939562bf947bba24f7648431deeefcea5fdd5da9afa8258febd60a",
+    "published_sha256": "2f18c20ad0e21f5c8576035e6cbbae8f56419b56b85f688cbd65c492ae120cd1"
+  },
+  {
+    "path": "patent_extension/abstract_model.py",
+    "source_sha256": "93ae107ede2a18ea54f58918c163cebe7ad4f0730ff0ca3da9c6780662613160",
+    "published_sha256": "912eb95ca8dd3beb9f2ebca1e31274607ebe5e0dd82e74127102edddcb8ba1a5"
+  },
+  {
+    "path": "patent_extension/AIPD_BERT_NEXT.md",
+    "source_sha256": "d54762acbe9da77a8cab6f5b38cafba1d79f57cb6a7fbeb5be4b105247a7235b",
+    "published_sha256": "1389685f4893a691c15a1966f891fb50b1cc200982afeafbf6e3f6edf770d154"
+  },
+  {
+    "path": "patent_extension/aipd_bert_next_evaluate.py",
+    "source_sha256": "d42a224cc1aac6f08b7bed8c155fa43217da707f5de3f7ec141b316df30f72fc",
+    "published_sha256": "3ad755724a207e043538f79b0563563d3b6af1c5a639aff637b8fc0083b89661"
+  },
+  {
+    "path": "patent_extension/aipd_bert_next_prepare.py",
+    "source_sha256": "0a2d3bb9229107f6574c5c44907fa89cc399294071da982fdcabc0aaca03d0a1",
+    "published_sha256": "f14bcf5dfd8b5e001b2795a06462ebe2a35171a32f2656745f67615cef319ad1"
+  },
+  {
+    "path": "patent_extension/aipd_bert_next_run.py",
+    "source_sha256": "04f98a2d2725be1485ecf35c644ff9dea2af9187307b350c4fae747866b495fc",
+    "published_sha256": "249b7e7b1f3666f91806c79d29697b5bb8aefcec7b7f91f6efe2b32dcba7b1aa"
+  },
+  {
+    "path": "patent_extension/aipd_claims_benchmark.py",
+    "source_sha256": "fa5befe9b0f892f16bde36176e99dc028cdcce7f1d67e0a2947db61a895cba81",
+    "published_sha256": "b1592eb339f2f2bec952b419247eb1ecc377d91aa98e57af685293212360f595"
+  },
+  {
+    "path": "patent_extension/AIPD_CLAIMS_EXPANDED.md",
+    "source_sha256": "5c250911bb268bab0ed27f469e88d76aff78b1b221bbc4640309ac42be0ba53c",
+    "published_sha256": "ef7c40f6c83fa54d135916fe34d1e2e3b1785623db54d66acfc95ce4a736cd2c"
+  },
+  {
+    "path": "patent_extension/aipd_claims_expanded.py",
+    "source_sha256": "7b4508bb08d9157330a1ae7a96bc37844883374682695f9d67e55289f79d0afd",
+    "published_sha256": "8648cf062318ad94837a89aab8c04a2613f1ddaf1ffec5d9a19520f77fb4f63f"
+  },
+  {
+    "path": "patent_extension/aipd_claims_fresh_sample.py",
+    "source_sha256": "69be52bef315e396effa11cd44cfe8545bff5fe114b4a4cf8312d746841a7b76",
+    "published_sha256": "562eb3ffedd0df8853969787d8d158dce66c9ff3080e6b4a397191e406acef9b"
+  },
+  {
+    "path": "patent_extension/aipd_continuity_audit.py",
+    "source_sha256": "e2f923252c1c444fedf24479253095d14bb01019578897ce0d340bf313214921",
+    "published_sha256": "89964351eecb597ef29d8830970e4a899a2360d9a31f513098ed183753f38737"
+  },
+  {
+    "path": "patent_extension/aipd_extension.py",
+    "source_sha256": "c59839b07abaa9c95734fae257d7d4e32f88ad4d863a9c362107e9b395dfb011",
+    "published_sha256": "5e39b5a1f3458779269e0257e313ff45f9a712918719c8ca81fd220ae9b85825"
+  },
+  {
+    "path": "patent_extension/AIPD_PATENT_BERT_PILOT.md",
+    "source_sha256": "1b6743ca38907aee2f20d2897d89f3ab4f75ed87839e6e009557ce3abc95e7b9",
+    "published_sha256": "84941a2daacc19f57366f5528f0ee7246c632eca0309a192ae6042f16ec06041"
+  },
+  {
+    "path": "patent_extension/aipd_patent_bert_pilot.py",
+    "source_sha256": "b40f0799a6992b28e96b28ec11719dd6e75dd8683994e08faf40b1792686069f",
+    "published_sha256": "e2f177fa92a31472de482659b2a91acfc95731d9ab43c463c86a4e81e91ed42b"
+  },
+  {
+    "path": "patent_extension/aipd_recent_claims_coverage.py",
+    "source_sha256": "c9f8eb44d5b0296ca11c77349be559ea9a7b32d97356456bb9c3d968107827f6",
+    "published_sha256": "c12ea63401431e43825bff95117b8759405e4936c317c5c58887f28a2f5c4855"
+  },
+  {
+    "path": "patent_extension/aipd_soft_teacher.py",
+    "source_sha256": "9371abd63d214a48bfe97a194710b513fd73e1de90cc57c9bc28d59f9896c9e3",
+    "published_sha256": "d998ac67bef75b72f4305339587ed15efae661977b1113a4f81f0fdcff4f9d3a"
+  },
+  {
+    "path": "patent_extension/AIPD_SURROGATE.md",
+    "source_sha256": "b74593b285c3e0a9499a7d912b2f674e1ddd6c737d3eaa0b4b8ade5ba317610d",
+    "published_sha256": "5d574b64bdf066ffc7d6c816b5c7e9a96ca5c55a6563f64c37d0659e7f84566d"
+  },
+  {
+    "path": "patent_extension/AIPD_SURROGATE_V2.md",
+    "source_sha256": "d26d6d30fafc7208b22c182708b7730814c36f1e836d6f0efee8ab53395f83f6",
+    "published_sha256": "07d61838f8395761ae16181acdfa32f4fdfe81485d1d7044eba1df5bc3ef697a"
+  },
+  {
+    "path": "patent_extension/aipd_v2_audit.py",
+    "source_sha256": "37edb2b8fa9112ec01a06193f8e6a93364074b0da644fe79af4e435db02d17f3",
+    "published_sha256": "489dee879ba49baff8fdea75e4be5ee9effca51954b4ae134ba27e86fc2e5b9c"
+  },
+  {
+    "path": "patent_extension/aipd_v2_model.py",
+    "source_sha256": "f45e27ab0f934e269f95733b418066fbe2de82065ec15f5e9c593d3f5e3f4a33",
+    "published_sha256": "abcf7cd75fe53565b8cd6d0c7c60888d9c9165b4c9e719d1dcfd71a41f5eabc0"
+  },
+  {
+    "path": "patent_extension/aipd_v2_prepare.py",
+    "source_sha256": "a5f51e3ba610729513a7ad2191832d54c1aa873e3164793e5042bcf3e68f642a",
+    "published_sha256": "35b9737bcdaa2e2f774818f0eb02e2118bbf47adea900ad86b9ff7ef8245b7da"
+  },
+  {
+    "path": "patent_extension/aipd_v3_features.py",
+    "source_sha256": "1a9704e62a9f4da759f91ff115a83c43c8b26dcc77d86d9d94774da3dc4fe686",
+    "published_sha256": "e0be0d8fe4ce30f6287274e38678c703b4246003f79f6411b888a87bc303524c"
+  },
+  {
+    "path": "patent_extension/audit_external_benchmark.py",
+    "source_sha256": "b2ae8db5ad1a8be9c0db3c48796d4b343152fbe451977e9545e4669671ce2800",
+    "published_sha256": "3045881a8d51846b0e22e589a06ff02ef0465813a36ae735c6f0cd287271bc6a"
+  },
+  {
+    "path": "patent_extension/audit_local_patent_sources.py",
+    "source_sha256": "09ebf395590b9a21350a1d63b26d3b6474bd47c97fe12f2b66aa296e429bca0d",
+    "published_sha256": "386817ea0421ddc762b7a1480afac30e1323cd43e4a6125899b0df1fc176e748"
+  },
+  {
+    "path": "patent_extension/audit_professor_sample.py",
+    "source_sha256": "f863afb36a10085b15d04ad8a2968e98723e0b2d191671ba3d014c123b81ce29",
+    "published_sha256": "85d1af386ca5372b39ff9578022f563e109bc1212571e04ed51e8533b1cd24f2"
+  },
+  {
+    "path": "patent_extension/bootstrap_sources.py",
+    "source_sha256": "b812ceffde82c7108452b8363351306dc8bf2c7dfe27f91bee2050c997c149f8",
+    "published_sha256": "cec8d9e8fc35674351cf0af0740fa8b03f1fa48756e51e89deb4ecfb47e19242"
+  },
+  {
+    "path": "patent_extension/build_patent_panels.py",
+    "source_sha256": "c4747572937b4e04238f116aeecbd5576ef599699f11baf7530dfc4fa23bde84",
+    "published_sha256": "6055771d620011fa7dade1f28bcb7bae3b8655f9a6bb67048b437ab4edd1f115"
+  },
+  {
+    "path": "patent_extension/download_training_corpus.py",
+    "source_sha256": "a39990a5469f600c5234827f9d5bcd6398d85ac651ae1cea5656d7322f1c2cde",
+    "published_sha256": "02d58c15b1875c47d33d9c392592eecb8ad86a2aa0f7d01be812383c4aebf017"
+  },
+  {
+    "path": "patent_extension/FULL_RUN_REPORT.md",
+    "source_sha256": "fb94da6ea84950dd90072c9b707669aadc940e2b067688ceb9d5e3b349453650",
+    "published_sha256": "fb94da6ea84950dd90072c9b707669aadc940e2b067688ceb9d5e3b349453650"
+  },
+  {
+    "path": "patent_extension/pilot_title_baseline.py",
+    "source_sha256": "d8a15d1ef2124929be09b3077095c98fec097d59798a5639837c3febdc81adb8",
+    "published_sha256": "09926747b2b3b940a6aae237ad50dbb4d93333945c0aeb537fdf70fb65faf74f"
+  },
+  {
+    "path": "patent_extension/README.md",
+    "source_sha256": "a3b7e95833ed87013cf5cc4a5b569d6478b1ce577d5fb82ce79776180b2b4bc2",
+    "published_sha256": "c85c194ebdb2412cc10c3c77724cc3495b95f75e20ecea5e00938613a5a9b504"
+  },
+  {
+    "path": "patent_extension/RECENT_REVIEW_GUIDE.md",
+    "source_sha256": "7c5b55032be80400f8e0d6ce667293d7ecf77f7210f0a78cc8298c6a1a41b1b3",
+    "published_sha256": "c04f45a8251ed2630dddda1c8534f57ffe3793015248b9e27db49e425579c8c7"
+  },
+  {
+    "path": "patent_extension/run_integrated.py",
+    "source_sha256": "55df7871bf1d7e2bd016ceb37cf57fab833ccb2e56f923a81904e93f04860e69",
+    "published_sha256": "29e7e4567c4d7af16c558bb905e4443932a0b7440d81ebfe6f882295b055d0d7"
+  },
+  {
+    "path": "patent_extension/summarize_validation.py",
+    "source_sha256": "d6e4bad2efe9aec34173c8071b0e56403c110a75b8d1f4be74cea28ee4741c5f",
+    "published_sha256": "cd3f2c3d5ce7b73a36f459f7920d3ff32b88af99bb2f4262dc96a965241ade0d"
+  },
+  {
+    "path": "patent_extension/test_aipd_claims_benchmark.py",
+    "source_sha256": "47144834389d71e3fc1f3d950a227a1b8912486736b8a584dbe7f6e497e530ef",
+    "published_sha256": "95d9988848c05c3da8437045b19a0c50de634939a3c90b97a1eb047294f01217"
+  },
+  {
+    "path": "patent_extension/test_aipd_extension.py",
+    "source_sha256": "bd624dbc3801c2df43e93eaf21e68e21c5534d1766f30414fb5213e26c2eab6a",
+    "published_sha256": "b66f54bdfdd3950550b2ba9c4aecb242687e4367de0c168ac268f45f62b9b2f6"
+  },
+  {
+    "path": "patent_extension/test_aipd_v2.py",
+    "source_sha256": "7762ece2585595d46ef141c3634b33bfb3b72d44efc915008bd2076bd814966e",
+    "published_sha256": "712c7f9fa4be8ad36aeeba9cae8bd54b5302c5fd99eb6ce793b4c8db056575e0"
+  },
+  {
+    "path": "patent_extension/test_pipeline.py",
+    "source_sha256": "c2e8e9a5d50035ad8de24a771de9d2310b2c9182fec58ae494d9f100765afbe3",
+    "published_sha256": "25c465a04997b4d79506bb5e50034a1fc569842a7f98fb10420becb9fc633f07"
+  },
+  {
+    "path": "patent_extension/verify_aipd_bert_bundle.py",
+    "source_sha256": "040d6b1715898d722dacf65ef7a7cfb67423e5bf3a7775992ff6adedf8e772e9",
+    "published_sha256": "b3b4ddd364470c2d39d0fff5ad94a3953b02294ddd4b62699b57b292264775d9"
+  },
+  {
+    "path": "patent_extension/verify_aipd_extension.py",
+    "source_sha256": "cfb6c4408f1f5ae8c0f800fde4de1199bb0967d1ee1f9965746d2a6d276676ae",
+    "published_sha256": "38abc46ebeb8089d4f5c1f57e9c7b7db811e75bac66c1cd12cee609432452a10"
+  },
+  {
+    "path": "patent_extension/write_full_run_report.py",
+    "source_sha256": "9cc4f51e2c02f35835c99718b99f64075855c1388d21b9dc029485e44eba0af0",
+    "published_sha256": "818766bb59b27342e97c0a00abad8614139c4c778712b4f7dcea179021c46bc8"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/ANNOTATOR_INSTRUCTIONS.md",
+    "source_sha256": "dd68fd28068c4a4c3232effbc2fcdfc7538d9a5d7ca2ada8655872cbc3864021",
+    "published_sha256": "4403daf5e2cbc0912727ec68650e9a2a334d3f16fecf4e766ad0758885dc5325"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/build_blind_review.py",
+    "source_sha256": "a9e5c7dae2ab17401a23efa698251ec703b71f3f350821f7f4667f3a59526f47",
+    "published_sha256": "3f2bd6a9215031a3ed8660597e55d4aff44e05d0daba69b0850cc992c23a9ed9"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/candidate_registry.json",
+    "source_sha256": "cd055c94c6e6387990afeb84f5167f5a87dfe12bdb5847ebbb63a2c8dd9912fc",
+    "published_sha256": "c4993a84534d5eae131d8fdbc97e4dbc07483542ec6bbb76751d5e578b92e5ce"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/check_clearance.py",
+    "source_sha256": "623e5c8aec0a68e0664ec91d0706a9754807bba223097ddc6a0ffae7ab97d77c",
+    "published_sha256": "ded2684e365339e7c5b993468792e54f2a0b873d964abe110964b63708b116eb"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/check_pilot.py",
+    "source_sha256": "a806c7a8c951d1d5bd031b8d2b6790f3bc4d8a03a171db68e1b71334be204be2",
+    "published_sha256": "4498e38ce791126408fd0eaa864763bfb85a6881df0b989ea644ede4cfaf4bce"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/design.json",
+    "source_sha256": "7b2d2a408293dfd1d8ea7aa84a921cb8a2b7ec8287b9e8170504640d08b984fc",
+    "published_sha256": "29a9ef0ab540ab7ed17a5f5864bd3463c41dd0c70bfc8d5bc37d57491e7f58bc"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/PILOT_HANDOFF.md",
+    "source_sha256": "3b9d26c1c79fe4bbaea4b5862132e99c17d15ca7acccc42a10ef9a0d0c833cd3",
+    "published_sha256": "9de068f32be5a646834ade245f23cbd934bbd1e616689fb92d7d5666584a9a9c"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/PROTOCOL.md",
+    "source_sha256": "89893e27c2f2b7fca83736fc2eaf47de76d40ae8e648a7bb88fb47e6506cdb22",
+    "published_sha256": "3774e0f550eb0b27ae80346374f6880f1b1888ed92e9d135e553d1d75f365bdb"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/PROTOTYPE_AUDIT.md",
+    "source_sha256": "b45dff5f0f7e3b70be00c3255e544c07067fdffa59df3ff69c28f2db53dfe88b",
+    "published_sha256": "0790eefd8980ca3a3fef918995f736b0c9951c771137545709c75df0160e1fbc"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/README.md",
+    "source_sha256": "a6a1bc2a139c9036bda5590fae470fa41886d657a1e2a5b97f4b92062970c1b9",
+    "published_sha256": "72c7151b3d85916be4231db87960744a0535954f8c442c078fda4db9ea8af5be"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/STATUS.md",
+    "source_sha256": "c1d9562a2c8b726fc2e0c0e6395e91c4650186d50cb3bd8b62cc6e50bc6b613b",
+    "published_sha256": "dfe1dda5a8e3159ca4c78a8f9183f6aac79e86a41e1129e16f845ed82e720800"
+  },
+  {
+    "path": "patent_extension/independent_validation_v2/test_design.py",
+    "source_sha256": "2a3cece2759fce20ea4c61771185ef9ca007be4bc04a1f1387abe3b67659711c",
+    "published_sha256": "dde7d7e565cf6f8515febec016780d3c5660799000ca572398e6086c28a693ab"
+  },
+  {
+    "path": "Siccodes12.txt",
+    "source_sha256": "55b51d1dc6939a570cd866824e9d49a9b16c0ad6247286b676aca25af8c78409",
+    "published_sha256": "55b51d1dc6939a570cd866824e9d49a9b16c0ad6247286b676aca25af8c78409"
+  },
+  {
+    "path": "Siccodes48.txt",
+    "source_sha256": "83c9d4705657bf973e1442b05e0d5eb1ed9f92c63f717945e81916bbd647a0f1",
+    "published_sha256": "83c9d4705657bf973e1442b05e0d5eb1ed9f92c63f717945e81916bbd647a0f1"
+  },
+  {
+    "path": "README_IBES_TR.md",
+    "source_sha256": "ca9ddc289381fdfc6e064400925a92a2efbf2138b5871d90ae2b7af4e81db70a",
+    "published_sha256": "eba93fc4d92bc4c714e5899439a6e49c6e7cdb937a164571e53c7fb493ba00e2"
+  },
+  {
+    "path": "legacy_snapshot/Data Collection/collecting_data.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "2f6d661445fa925a5e043e11651013413ad9e24b57fce1ba2f1d97e5593482b2"
+  },
+  {
+    "path": "legacy_snapshot/Data Collection/company_ticker_database.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "64acf5a1c1308e170897864fd5b3170d2a0840a0c9bb731ad4234cca0f43f26b"
+  },
+  {
+    "path": "legacy_snapshot/Data Collection/parser.py",
+    "source_sha256": "e412f23304271f1d1ac6873419dd491c23acb04b7bcf6c5da064626db7246a02",
+    "published_sha256": "e412f23304271f1d1ac6873419dd491c23acb04b7bcf6c5da064626db7246a02"
+  },
+  {
+    "path": "legacy_snapshot/Data Collection/sec_edgar_download.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "926ac2532930d07d1141872e394f55e81b34a62ffedd693f859c1bd7acd00bd8"
+  },
+  {
+    "path": "legacy_snapshot/Legacy/data_cleaning.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "80b8ea35be117aac39946ec6a1e7f45ea3fe275914d067b41295fde198b0c462"
+  },
+  {
+    "path": "legacy_snapshot/Legacy/data_collection.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "746bc65517335dc66738d5a34eadaa96b558a94bc2146cb3668f8d184f3b4d68"
+  },
+  {
+    "path": "legacy_snapshot/Legacy/folder_cleaning.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "6836630f99dbf27ce6ccb2bc5b90dc9797f2f7d0e85ee34ad96ca7d55bf36073"
+  },
+  {
+    "path": "legacy_snapshot/Legacy/write_to_csv.ipynb",
+    "notebook_outputs_removed": true,
+    "published_sha256": "72dbe32db9cb2fd910f2b3cd0d1a7e16231379f30cf95b168ab2134b2288a976"
+  },
+  {
+    "path": "legacy_snapshot/part2/extractor.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "legacy_snapshot/Legacy/extract_sections.ipynb",
+    "notebook_outputs_removed": true,
+    "credential_literals_replaced_by_environment": true,
+    "published_sha256": "b395710b89d6c8e13804415671ef2cb8d9dcce8fe83e9e8ee9666b776e33c6b5"
+  }
+]
